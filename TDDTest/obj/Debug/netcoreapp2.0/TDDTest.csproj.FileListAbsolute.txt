@@ -1,0 +1,14 @@
+/Users/danielcb/Projects/TDDTest/TDDTest/obj/Debug/netcoreapp2.0/TDDTest.csprojResolveAssemblyReference.cache
+/Users/danielcb/Projects/TDDTest/TDDTest/obj/Debug/netcoreapp2.0/TDDTest.csproj.CoreCompileInputs.cache
+/Users/danielcb/Projects/TDDTest/TDDTest/obj/Debug/netcoreapp2.0/TDDTest.AssemblyInfoInputs.cache
+/Users/danielcb/Projects/TDDTest/TDDTest/obj/Debug/netcoreapp2.0/TDDTest.AssemblyInfo.cs
+/Users/danielcb/Projects/TDDTest/TDDTest/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/danielcb/Projects/TDDTest/TDDTest/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/danielcb/Projects/TDDTest/TDDTest/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/danielcb/Projects/TDDTest/TDDTest/bin/Debug/netcoreapp2.0/TDDTest.deps.json
+/Users/danielcb/Projects/TDDTest/TDDTest/bin/Debug/netcoreapp2.0/TDDTest.runtimeconfig.json
+/Users/danielcb/Projects/TDDTest/TDDTest/bin/Debug/netcoreapp2.0/TDDTest.runtimeconfig.dev.json
+/Users/danielcb/Projects/TDDTest/TDDTest/bin/Debug/netcoreapp2.0/TDDTest.dll
+/Users/danielcb/Projects/TDDTest/TDDTest/bin/Debug/netcoreapp2.0/TDDTest.pdb
+/Users/danielcb/Projects/TDDTest/TDDTest/obj/Debug/netcoreapp2.0/TDDTest.dll
+/Users/danielcb/Projects/TDDTest/TDDTest/obj/Debug/netcoreapp2.0/TDDTest.pdb
